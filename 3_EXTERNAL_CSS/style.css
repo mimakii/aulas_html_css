@@ -1,3 +1,9 @@
 h1 {
     color: darkred;
 }
+
+p {
+    color: darkorange ;
+    background: #ddd;
+    font-size: 24px ;
+}
